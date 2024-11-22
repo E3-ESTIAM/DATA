@@ -3,3 +3,7 @@ A branch is a separate version of a repository where you can make changes withou
 git log permit you to see all the commits u made
 
 git log --gragh to differentiate the different commit
+
+git pull to recover the work of your co-worker when working in collaboration in git 
+
+git merge to join together two work into one
