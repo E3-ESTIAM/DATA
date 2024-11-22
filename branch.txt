@@ -1,1 +1,5 @@
 A branch is a separate version of a repository where you can make changes without affecting the main code base, allowing for parallel development and experimentation.
+
+git log permit you to see all the commits u made
+
+git log --gragh to differentiate the different commit
